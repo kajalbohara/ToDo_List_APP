@@ -22,7 +22,7 @@
 
 ##Folder Structure 📂
 -src/components/
--Header.jsx: Renders the application header.
+- Header.jsx: Renders the application header.
 - ToDoItem.jsx: Handles adding and editing tasks.
 - ToDoList.jsx: Displays the list of tasks and task actions.
 - src/App.jsx: Main component to manage state and render other components.
